@@ -14,9 +14,9 @@ export const messages = {
 };
 
 export const credentials = {
-  appId: 385,
-  authKey: "DFBMs5-dKBBCXcd",
-  authSecret: "SkCW-ThdnmRg9Za"
+  appId: 7123,
+  authKey: "JxULzVe8nfOu8nT",
+  authSecret: "LHShkEyW9P9XG2j"
 };
 
 export const appConfig = {
@@ -31,31 +31,31 @@ export const appConfig = {
 
 export const users = [
   {
-    id: 72780,
-    name: "Alice",
-    login: "videouser1",
-    password: "videouser1",
+    id: 7951779,
+    name: "Customer",
+    login: "customer",
+    password: "customer123",
     color: "#34ad86"
   },
   {
-    id: 72781,
-    name: "Bob",
-    login: "videouser2",
-    password: "videouser2",
+    id: 7951786,
+    name: "Shop Manager",
+    login: "shopmanager",
+    password: "shopmanager123",
     color: "#077988"
   },
-  {
-    id: 590565,
-    name: "Ciri",
-    login: "videouser3",
-    password: "videouser3",
-    color: "#13aaae"
-  },
-  {
-    id: 590583,
-    name: "Dexter",
-    login: "videouser4",
-    password: "videouser4",
-    color: "#056a96"
-  }
+  // {
+  //   id: 590565,
+  //   name: "Ciri",
+  //   login: "videouser3",
+  //   password: "videouser3",
+  //   color: "#13aaae"
+  // },
+  // {
+  //   id: 590583,
+  //   name: "Dexter",
+  //   login: "videouser4",
+  //   password: "videouser4",
+  //   color: "#056a96"
+  // }
 ];
